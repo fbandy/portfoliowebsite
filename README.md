@@ -10,3 +10,10 @@ HTML, CSS, JavaScript and Bootstrap 5 Portfolio Website
 
 This is the [live demo](https://brad-portfolio.netlify.app/) of the project . 
 
+Icons: https://boxicons.com/
+Fonts: https://fonts.google.com/
+Images: https://purepng.com/
+Images: https://www.freepik.com/
+Swiper: https://swiperjs.com/
+Clip Path Maker: https://bennettfeely.com/clippy/
+
