@@ -7,6 +7,13 @@ HTML, CSS, JavaScript and Bootstrap 5 Portfolio Website
 * [Bootstrap 5](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
 * [Font Awesome 5](https://fontawesome.com/)
 * [google map](https://www.embed-map.com/)
+* [Box Icons](https://boxicons.com/)
+* [Font Google](https://fonts.google.com/)
+* [Images](https://purepng.com/)
+* [Images](https://www.freepik.com/)
+* [Swiper](https://swiperjs.com/)
+* [Clip Path Marker](https://bennettfeely.com/clippy/)
+
 
 This is the [live demo](https://brad-portfolio.netlify.app/) of the project . 
 
